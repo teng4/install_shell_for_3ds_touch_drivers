@@ -10,3 +10,6 @@ These shell (.sh) scripts are improved according to [3ds-touch-openhaptics](http
 1. Uninstall all previous version of the touch driver if you have any already installed on the PC.
 1. Run the command `./install*.sh` or `sh ./install*.sh` in the terminal to install.
 1. These scripts are tested only on Ubuntu 20.04.6 LTS.
+
+------
+Created on 2025-04-25.
