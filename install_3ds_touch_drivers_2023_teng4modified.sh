@@ -48,7 +48,7 @@ echo "--- (2) installed into /usr/lib"
 ls TouchDriver_2023_11_15/usr/lib
 
 #sudo copy all rule files into /etc/udev/rules.d/
-sudo cp rules.d/*.rules /etc/udev/rules.d/
+sudo cp TouchDriver_2023_11_15/rules.d/*.rules /etc/udev/rules.d/
 echo "--- (3) installed into /etc/udev/rules.d/"
 ls TouchDriver_2023_11_15/rules.d
 
